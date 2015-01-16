@@ -8,9 +8,11 @@
   },
   "dependencies": {
     "bitcore-channel": "0.0.9",
+    "colors": "^1.0.3",
     "http-accept": "^0.1.6"
   },
   "devDependencies": {
+    "connect": "^3.3.4",
     "coveralls": "^2.11.2",
     "istanbul": "^0.3.5",
     "mocha": "^2.1.0"
