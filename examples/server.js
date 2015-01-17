@@ -10,7 +10,8 @@ var bitcoin = new Bitcoin({
   contract: {
     unit: 'KB',
     amount: 1,
-    fee: 0.00000001
+    fee: 0.00000001,
+    enrollment: 0
   },
   debug: true
 });
