@@ -7,7 +7,7 @@
     "test": "test"
   },
   "dependencies": {
-    "bitcore-channel": "^0.1.1",
+    "bitcore-channel": "^0.1.2",
     "colors": "^1.0.3",
     "http-accept": "^0.1.6"
   },
